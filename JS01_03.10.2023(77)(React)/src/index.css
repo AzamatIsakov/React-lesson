@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#root {
+  height: 100vh;
+  background-color: rgb(254, 91, 123);
+}
